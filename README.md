@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @liangkarl
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning more system programming skill.
+👋 Hi there,
+
+Welcome to my Github page. I’m @liangkarl.
+I'm a system software engineer and I love programming. 👀
+I'd like to share my works and hope they could help some people. 🌱 
 
 <!---
 - 💞️ I’m looking to collaborate on 
