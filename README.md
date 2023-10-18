@@ -1,11 +1,12 @@
-👋 Hi there,
-<br>
+Hi there, 👋 
 <p>
-Welcome to my Github page. I’m Karl.<br>
-I'm a system software engineer and I love programming. 👀<br>
-I'd like to share my works and hope they could help some people. 🌱<br> 
+Welcome to my Github.
+I’m Karl.<br>
+I'm an embbeded system engineer with extensive working experience. <br>
+Coding is my interest and occupation. <br>
+I would share my works here and there are some useful tools for you. 🌱<br> 
 </p>
-  
+
 <!---
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
