@@ -4,7 +4,7 @@ Welcome to my Github.
 I’m Karl.<br>
 I'm an embbeded system engineer with extensive working experience. <br>
 Coding is my interest and occupation. <br>
-I would share my works here and there are some useful tools for you. 🌱<br> 
+I would share my works here and hope there are some useful tools for you. 🌱<br> 
 </p>
 
 <!---
